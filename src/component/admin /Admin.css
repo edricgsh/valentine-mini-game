@@ -1,0 +1,28 @@
+.form-container {
+  text-align: left;
+  padding-top: 20px;
+  padding-left: 5%;
+  height: 100vh;
+}
+
+.form-row {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.form-label {
+  display: inline-flex;
+  width: 180px;
+  margin-right: 10px;
+  font-size: 18px; /* Bigger text size */
+}
+
+.form-input {
+  flex-grow: 1;
+  border-radius: 20px; /* Rounded edges */
+  height: 40px; /* Higher input field */
+  font-size: 16px; /* Bigger text size */
+  padding: 0% 2%;
+  width: 200px;
+}
