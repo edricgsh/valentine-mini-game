@@ -119,7 +119,7 @@ const Home = () => {
     <div className="App">
       <div className="titleContainer">
         <h2 className="title">Choose Your Valentine's Present</h2>
-        <img src="/roses.svg" width={"50px"}></img>
+        <img src="/valentine-game/roses.svg" width={"50px"}></img>
       </div>
       <div className="cover-image">
         <iframe

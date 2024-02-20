@@ -5,4 +5,7 @@ import react from "@vitejs/plugin-react";
 export default defineConfig({
   plugins: [react()],
   base: "/valentine-game",
+  build: {
+    outDir: "dist/valentine-game", // Customize the output directory
+  },
 });

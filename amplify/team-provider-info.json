@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-valentinegame-dev-104634-authRole",
+      "UnauthRoleArn": "arn:aws:iam::077099800493:role/amplify-valentinegame-dev-104634-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::077099800493:role/amplify-valentinegame-dev-104634-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-valentinegame-dev-104634-deployment",
+      "UnauthRoleName": "amplify-valentinegame-dev-104634-unauthRole",
+      "StackName": "amplify-valentinegame-dev-104634",
+      "StackId": "arn:aws:cloudformation:us-east-2:077099800493:stack/amplify-valentinegame-dev-104634/c50e4fe0-cd3e-11ee-a8aa-060178293709",
+      "AmplifyAppId": "d54meedl9a9gc"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d54meedl9a9gc",
+          "type": "manual"
+        }
+      }
+    }
+  }
+}
